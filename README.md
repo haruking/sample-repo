@@ -1,2 +1,2 @@
 # sample-repo
-GIt practice
+GIt practice revised
