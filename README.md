@@ -2,4 +2,4 @@
 GIt practice revised
 merge for no-fast-foward
 change on remote repo
-remote repo conflict
+conflict remote (conflict happen)
